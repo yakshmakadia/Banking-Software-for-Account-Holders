@@ -17,5 +17,15 @@ This project aims to develop simple banking software that allows customers to pe
 4. If the credentials are incorrect, the system denies access.
 5. The program runs in a loop, allowing multiple transactions until the user chooses to exit.
 
+## Installation & Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/basic-banking-software.git
+   cd basic-banking-software
+   ```
+2. Run the program:
+   ```bash
+   python banking.py
+   `
 ## Author
 - Yaksh Makadia
